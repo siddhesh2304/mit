@@ -1,1 +1,9 @@
 we should always create database in sts stateful set we should not use deployment as if its pod gets deleted it names keep changeing
+
+terraform is a infrastructure provisioning tool
+//terraform.io
+
+traffic coming on lan card= ingress/inbound
+traffic going out = outgress/outbound 
+Ansible - is a configuration management tool
+if terraform can make 100 instances on cloud then ansible is used to install docker on those 100 machines
