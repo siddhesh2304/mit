@@ -1,0 +1,1 @@
+we should always create database in sts stateful set we should not use deployment as if its pod gets deleted it names keep changeing
