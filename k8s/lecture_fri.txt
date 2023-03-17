@@ -7,3 +7,4 @@ traffic coming on lan card= ingress/inbound
 traffic going out = outgress/outbound 
 Ansible - is a configuration management tool
 if terraform can make 100 instances on cloud then ansible is used to install docker on those 100 machines
+
